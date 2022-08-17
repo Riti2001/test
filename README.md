@@ -3,3 +3,5 @@
 - git add
 - git commit
 - git push
+
+*This much for now! Thank you!*
